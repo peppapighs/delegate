@@ -1,0 +1,3 @@
+# delegate
+
+C++ Fast Delegate
